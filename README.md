@@ -13,10 +13,13 @@ The goal of the project is to understand customer purchasing patterns and demons
 
 
 Project Files -
-customer_shopping_behavior.csv - Raw customer behaviour dataset |
-data_cleaning.ipynb - Jupyter Notebook for data cleaning and preprocessing |
-SQL_EDA.sql - SQL queries used for exploratory data analysis in MySQL |
-customer_behavior_dashboard.pbix - Power BI dashboard visualizing customer insights |
+customer_shopping_behavior.csv - Raw customer behaviour dataset 
+
+data_cleaning.ipynb - Jupyter Notebook for data cleaning and preprocessing 
+
+SQL_EDA.sql - SQL queries used for exploratory data analysis in MySQL 
+
+customer_behavior_dashboard.pbix - Power BI dashboard visualizing customer insights 
 
 
 Tools & Technologies Used -
