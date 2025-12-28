@@ -6,6 +6,7 @@ End-to-end data analytics project using MySQL for data cleaning and EDA, and Pow
 Customer Behaviour Data Analytics Project
 
 Project Overview -
+
 This project focuses on analyzing customer shopping behaviour using a structured data analytics workflow.  
 It includes data cleaning, exploratory data analysis (EDA) using SQL, and an interactive Power BI dashboard to visualize customer insights.
 The goal of the project is to understand customer purchasing patterns and demonstrate practical skills in data cleaning, SQL-based analysis, and business intelligence reporting.
@@ -13,6 +14,7 @@ The goal of the project is to understand customer purchasing patterns and demons
 
 
 Project Files -
+
 customer_shopping_behavior.csv - Raw customer behaviour dataset 
 
 data_cleaning.ipynb - Jupyter Notebook for data cleaning and preprocessing 
@@ -63,8 +65,10 @@ How to Use This Project -
 
 
 Conclusion -
+
 This project demonstrates a complete data analytics pipeline from raw data to actionable insights using industry-relevant tools. It reflects practical experience in handling real-world datasets and presenting insights in a business-friendly manner.
 
 
-OM MUJUMDAR 
+OM MUJUMDAR
+
 Aspiring Data Analyst | SQL | Python | Power BI 
