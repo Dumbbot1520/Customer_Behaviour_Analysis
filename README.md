@@ -72,3 +72,7 @@ This project demonstrates a complete data analytics pipeline from raw data to ac
 OM MUJUMDAR
 
 Aspiring Data Analyst | SQL | Python | Power BI 
+
+
+<img width="1292" height="727" alt="image" src="https://github.com/user-attachments/assets/03646346-e3d0-4ad8-ab2c-167e0c53f652" />
+
